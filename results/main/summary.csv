@@ -1,0 +1,13 @@
+file,n,seed,guesses,host_oracle,v_uniform,v_star_lower,v_star_upper,gain,converged,iterations,time_s,supp_p,supp_q,max_depth_eq,max_depth_any,top_words
+n25_s0.json,25,0,all,True,2.04,2.0625,2.0625,0.0225,True,103,3.8,16,16,3,4,needy unite elbow grime scrum
+n25_s1.json,25,1,all,True,2.08,2.109589,2.109589,0.029589,True,79,3.2,22,18,3,4,lying spurn showy knock modem
+n25_s2.json,25,2,all,True,2.04,2.102941,2.102941,0.062941,True,103,4.1,25,21,3,4,shook bosom world drool droll
+n50_s0.json,50,0,all,True,2.26,2.34203,2.34203,0.08203,True,285,32.1,48,47,4,5,brook prong razor tutor dummy
+n50_s1.json,50,1,all,True,2.28,2.346307,2.346307,0.066307,True,272,33.5,48,49,4,4,break cream broke prime drove
+n50_s2.json,50,2,all,True,2.28,2.372477,2.372477,0.092477,True,288,59.7,50,50,4,5,boozy filly muddy gully whoop
+n75_s0.json,75,0,all,True,2.4,2.473527,2.473527,0.073527,True,477,486.4,72,72,4,5,puppy quick buxom hilly grand
+n75_s1.json,75,1,all,True,2.386667,2.473521,2.473521,0.086854,True,512,357.7,72,72,5,5,stung stunk scary staff spank
+n75_s2.json,75,2,all,True,2.426667,2.488293,2.488293,0.061626,True,499,381.6,72,72,4,5,vigil mucky gully folly coyly
+n100_s0.json,100,0,all,True,2.46,2.537895,2.537895,0.077895,True,797,1756.8,96,96,5,5,march harpy savvy saucy rumba
+n100_s1.json,100,1,all,True,2.47,2.542657,2.542657,0.072657,True,828,1328.6,93,95,4,5,badly gayly bully amply guppy
+n100_s2.json,100,2,all,True,2.52,2.577404,2.577404,0.057404,True,964,3418.3,96,96,4,5,booby mammy mafia vivid juror
