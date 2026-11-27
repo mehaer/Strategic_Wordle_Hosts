@@ -1,0 +1,5 @@
+cluster,n,cluster_size,uniform_share,p_star_mass,v_uniform,v_star,gain,converged,max_depth_eq,time_s,top_words
+atch,50,7,0.14,0.6384,2.38,2.558317,0.178317,True,5,336.4,batch hatch watch patch catch
+ight,50,8,0.16,0.5678,2.36,2.510247,0.150247,True,5,306.6,fight night tight might light
+ound,50,8,0.16,0.5487,2.4,2.596194,0.196194,True,5,5822.4,hound found wound bound mound
+ower,50,7,0.14,0.6484,2.3,2.478684,0.178684,True,4,96.6,mower cower rower tower power
