@@ -1,0 +1,25 @@
+{
+  "word_lists": [
+    "results/main/n50_s0.json",
+    "results/cluster/n50_ight.json",
+    "results/main/n50_s1.json",
+    "results/cluster/n50_ound.json",
+    "results/main/n50_s2.json",
+    "results/cluster/n50_atch.json",
+    "results/cluster/n50_ower.json"
+  ],
+  "conditions": ["optimal", "plain"],
+  "samples": 20,
+  "explicit_repeats": 5,
+  "temperature": 1.0,
+  "max_tokens": 6000,
+  "reasoning": {"effort": "low"},
+  "concurrency": 4,
+  "total_budget_usd": 24.0,
+  "models": [
+    {"id": "deepseek/deepseek-v4.1-flash", "label": "DeepSeek V4.1 Flash", "budget_usd": 1.5, "reasoning": {"max_tokens": 3000}},
+    {"id": "anthropic/claude-haiku-5.5", "label": "Claude Haiku 5.5", "budget_usd": 1.5},
+    {"id": "openai/gpt-5.4-mini", "label": "GPT-5.4 Mini", "budget_usd": 4.0},
+    {"id": "anthropic/claude-fable-5.2", "label": "Claude Fable 5.2 (frontier)", "budget_usd": 16.0}
+  ]
+}

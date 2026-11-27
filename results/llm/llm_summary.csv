@@ -1,0 +1,15 @@
+model,condition,method,lists,gain_mean,score_mean,score_random_lists,score_cluster_lists,tv_mean,cluster_mass,p_star_cluster_mass,uniform_share,support_mean,parse_ok_rate,cost
+anthropic/claude-fable-5.2,optimal,explicit,7,0.0145,0.081,0.0,0.141,0.3,0.244,0.601,0.15,50.0,1.0,1.9865
+anthropic/claude-fable-5.2,optimal,sample,7,-0.7014,-5.966,-8.298,-4.217,0.749,1.0,0.601,0.15,4.9,1.0,2.3537
+anthropic/claude-fable-5.2,plain,explicit,7,0.0174,0.094,0.0,0.165,0.292,0.269,0.601,0.15,50.0,1.0,1.7936
+anthropic/claude-fable-5.2,plain,sample,7,-1.0229,-8.826,-12.901,-5.77,0.842,1.0,0.601,0.15,2.6,1.0,3.0272
+anthropic/claude-haiku-5.5,optimal,explicit,7,-0.0127,-0.259,-0.779,0.131,0.33,0.695,0.601,0.15,32.6,1.0,0.0279
+anthropic/claude-haiku-5.5,optimal,sample,7,-0.3371,-3.179,-5.462,-1.468,0.65,0.963,0.601,0.15,8.1,1.0,0.0431
+anthropic/claude-haiku-5.5,plain,explicit,7,-0.0821,-0.966,-2.136,-0.088,0.423,0.68,0.601,0.15,22.8,1.0,0.0231
+anthropic/claude-haiku-5.5,plain,sample,7,-0.3371,-3.014,-4.555,-1.859,0.644,0.988,0.601,0.15,8.1,1.0,0.0323
+openai/gpt-5.4-mini,optimal,explicit,7,-0.1317,-1.312,-2.41,-0.489,0.548,0.475,0.601,0.15,22.5,1.0,0.2503
+openai/gpt-5.4-mini,optimal,sample,7,-0.7157,-5.852,-7.435,-4.665,0.855,0.15,0.601,0.15,5.7,1.0,0.4765
+openai/gpt-5.4-mini,plain,explicit,7,-0.2808,-2.759,-4.869,-1.176,0.696,0.292,0.601,0.15,15.0,1.0,0.2521
+openai/gpt-5.4-mini,plain,sample,7,-0.5729,-4.734,-6.035,-3.757,0.824,0.188,0.601,0.15,6.7,1.0,0.5679
+ref: p* sampled,-,sample,7,-0.2257,-2.083,-3.365,-1.121,0.523,0.628,0.601,0.15,13.9,1.0,0.0
+ref: uniform sampled,-,sample,7,-0.3171,-2.671,-3.615,-1.963,0.705,0.195,0.601,0.15,16.2,1.0,0.0
